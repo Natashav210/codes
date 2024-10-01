@@ -14,7 +14,7 @@ int main(){
     printf("Enter your income: ");
     scanf("%f",&income);
 
-    if(age>21,income>=21000){
+    if(age>21 && income>=21000){
     printf("Congratulations you qualify for a loan.");
     }
     
